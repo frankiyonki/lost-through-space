@@ -1,4 +1,5 @@
 # lost-through-space
+#link al repositorio: https://github.com/frankiyonki/lost-through-space.git
 '''
 Imagina que en el futuro una nave espacial tripulada parte de la Tierra hacia el planeta Neptuno. Durante el viaje, la tripulación permanece en estado de animación suspendida. En el trayecto la nave sufre una grave avería y el sistema automático de control la dirige al cuerpo celeste más cercano, donde realiza un aterrizaje de emergencia. Al posarse sobre la superficie, el sistema de soporte vital de la nave reanima a la tripulación.
 Una vez despiertos, los tripulantes descubren que el sistema de posicionamiento espacial no funciona y por el momento no tienen comunicación con la Tierra ni pueden mirar al exterior de la nave por razones de seguridad. Así que no saben dónde están, no tienen ningún dato del exterior, ni posibilidad de conseguirlo, ni saben cuánto tiempo ha pasado.
